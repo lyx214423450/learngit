@@ -2,7 +2,13 @@
 helloword
 "晚上"
 123
+<<<<<<< HEAD
 "goofmorning"
 hgjhg
 ghdhg
 hgd
+=======
+goodmorning
+"321"
+abc
+>>>>>>> abc
