@@ -2,12 +2,4 @@
 helloword
 "晚上"
 123
-<<<<<<< HEAD
-"goofmorning"
-hgjhg
-ghdhg
-hgd
-abc
-=======
 dev
->>>>>>> dev
